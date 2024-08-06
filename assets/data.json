@@ -1,0 +1,39 @@
+{
+    "teachers": [
+      {
+        "name": "John Doe",
+        "address": "123 Main St",
+        "phone": "555-1234",
+        "department": "Mathematics",
+        "program": "BSc",
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Jane Smith",
+        "address": "456 Elm St",
+        "phone": "555-5678",
+        "department": "Science",
+        "program": "MSc",
+        "image": "https://via.placeholder.com/100"
+      }
+    ],
+    "students": [
+      {
+        "name": "Alice Johnson",
+        "address": "789 Maple Ave",
+        "phone": "555-8765",
+        "department": "Computer Science",
+        "program": "BSc",
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Bob Brown",
+        "address": "321 Oak St",
+        "phone": "555-4321",
+        "department": "Arts",
+        "program": "BA",
+        "image": "https://via.placeholder.com/100"
+      }
+    ]
+  }
+  
